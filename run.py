@@ -128,7 +128,7 @@ def sholat_bree():
 def ulang():
 	ulng=input(f"{R}•>{W} Main Lagi? {R}({W}Y{Y}/{W}N{R}){W}:")
 	if ulng == "Y" or ulng == "y":
-		os.system("python run.py")
+		os.system("python /sdcard/run.py")
 	if ulng == "N" or ulng == "n":
 		print (f"{W}Thanks For Use Tools ({biru}^{W}_{biru}^{W})")
 
