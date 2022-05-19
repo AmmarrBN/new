@@ -64,7 +64,7 @@ def load():
 	    count += 1
 	    if count == 1:
 	    	count = 0
-	    	load += '
+	    	load += '&'
 		
 # Countdown (hitung mundur)
 def down(time_sec):
