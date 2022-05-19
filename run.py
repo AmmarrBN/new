@@ -1,9 +1,14 @@
+# Directed By Powerr-python & Ammar-Executed
+# Subscribe Youtube Ammar Executed
+
+# Module Install
 try:
 	import os,sys,time,requests,json,re,random,itertools,threading
 	from colorama import Fore,Back,init
 except ModuleNotFoundError:
         print ("Install Module Dahulu")
-
+	
+# Color
 B = Fore.BLUE
 W = Fore.WHITE
 R = Fore.RED
@@ -49,6 +54,7 @@ bg="\033[1;0m\033[1;41mText\033[1;0m"
 hah=(f"{W}Menyepam Dalam ")
 xit=("Exited In ")
 
+# Loading Coldown
 def load():
 	load = '█'
 	count = 0
@@ -58,8 +64,9 @@ def load():
 	    count += 1
 	    if count == 1:
 	    	count = 0
-	    	load += '█'
-
+	    	load += '
+		
+# Countdown (hitung mundur)
 def down(time_sec):
         while time_sec:
                 mins, secs = divmod(time_sec,60)
@@ -70,6 +77,7 @@ def down(time_sec):
         print (f"{W}Thanks For Use Tools ({biru}^{W}_{biru}^{W})")
         time.sleep(5)
 
+# Countdown (hitung mundur)
 def countdown(time_sec):
 	try:
 		while time_sec:
@@ -83,6 +91,7 @@ def countdown(time_sec):
 	except KeyboardInterrupt:
                 print (f"{W}Program Terminated [{R}!{W}]")
 
+# Shoalt Feature
 def sholat_bree():
 	try:
 		kota = input(f'{W}[{Y}•{W}] Nama Kota{R}:{G} ')
@@ -124,14 +133,16 @@ def sholat_bree():
 		sholat_bree()
 	except KeyboardInterrupt:
 		print (f"{W}Program Terminated [{R}!{W}]")
-
+		
+# Loop Main Lagi?
 def ulang():
 	ulng=input(f"{R}•>{W} Main Lagi? {R}({W}Y{Y}/{W}N{R}){W}:")
 	if ulng == "Y" or ulng == "y":
 		os.system("python /sdcard/run.py")
 	if ulng == "N" or ulng == "n":
 		print (f"{W}Thanks For Use Tools ({biru}^{W}_{biru}^{W})")
-
+		
+#Spammer (Jangan Diubah)
 def spammer():
 	try:
 		nomor=input(f"{R}->{W} Target Number {R}:{W} ")
@@ -301,7 +312,8 @@ def spammer():
                 sys.exit(f"{W}Program Terminated [{R}!{W}]")
 	except ValueError:
                 print (f"{W}Masukkan Nomor Dengan Benar [{R}!{W}]")
-
+		
+# first Logo
 def log():
 	os.system("clear")
 	print (f"""
@@ -317,7 +329,8 @@ def log():
 {W}	4{R}.{W}Bug Report
 {W}	5{R}.{W}Exit Tools
 """)
-
+	
+# Spammer Logo
 def log2():
 	os.system("clear")
 	print(f"""
@@ -328,7 +341,8 @@ def log2():
 {R}  •>{W} Example{R}:{Y}8xx{R}),({W}Tidak Ush Masukkan Email Jika Tidak Spam Email{R})
 {biru}╚                                                                 ╝
 """)
-
+	
+# Subscribe Logo
 def log3():
 	os.system("clear")
 	print(f"""
@@ -338,6 +352,8 @@ def log3():
 {ungu}  ╩ ╩{W} ┴ ┘└┘ └─┘{R}     {G}╚═╝{W}┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─ {abu}|{R}•{W}Youtube{R}:{W}Ammar Executed
 {biru}╚                                                                 ╝
 """)
+	
+# Report Logo
 
 def log0():
         os.system("clear")
@@ -352,7 +368,7 @@ def log0():
 
 message=("\033[1;93m{\033[1;97mMessage\033[1;93m}\033[1;97m:")
 
-
+# Starting Spam
 def mulai():
 	try:
 		log()
@@ -386,7 +402,8 @@ def mulai():
 		time.sleep(3)
 	except requests.exceptions.ConnectionError:
 		sys.exit(f"{putih}Koneksi Tidak Stabil [{R}!{W}]")
-
+		
+# Loading Starr Tools
 def pro():
         mulai()
 done = False
