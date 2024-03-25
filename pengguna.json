@@ -1,7 +1,7 @@
 {
   "pengguna": [
-    {"id": "u0_a375", "type": "basic", "name": "AmmarBN"},
-    {"id": "u0_a379", "type": "premium", "name": "AmmarBN2"},
-    {"id": "u0_a376", "type": "VVIP", "name": "AmmarBN3"}
+    {"id": "u0_a375", "type": "STAR", "name": "AmmarBN"},
+    {"id": "u0_a379", "type": "MEDIUM", "name": "AmmarBN2"},
+    {"id": "u0_a376", "type": "HIGH", "name": "AmmarBN3"}
   ]
 }
