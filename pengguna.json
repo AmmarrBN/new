@@ -1,5 +1,9 @@
 {
   "pengguna": [
-    {"id": "u0_a374", "type": ["STAR","MEDIUM","HARD"] "name": "AmmarBN"}
+    {
+      "id": "u0_a374",
+      "type": ["STAR","MEDIUM","HARD"],
+      "name": "AmmarBN"
+    }
   ]
 }
