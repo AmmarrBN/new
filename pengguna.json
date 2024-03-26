@@ -4,6 +4,11 @@
       "id": "u0_a374",
       "type": ["MEDIUM"],
       "name": "AmmarBN"
+    },
+    {
+      "id": "u0_a857",
+      "type": ["STAR","MEDIUM","HIGH"],
+      "name": "RazorX"
     }
   ]
 }
