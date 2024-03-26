@@ -9,6 +9,11 @@
       "id": "u0_a857",
       "type": ["STAR","MEDIUM","HIGH"],
       "name": "RazorX"
+    }, 
+    {
+      "id": "u0_a64"
+      "type": ["STAR","MEDIUM","HIGH"], 
+      "name": "RazorPC"
     }
   ]
 }
