@@ -14,6 +14,11 @@
       "id": "u0_a64",
       "type": ["STAR","MEDIUM","HIGH"], 
       "name": "RazorPC"
+    }, 
+    {
+      "id": "u0_a245",
+      "type": ["STAR"], 
+      "name": "Rizky"
     }
   ]
 }
