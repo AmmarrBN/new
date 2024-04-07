@@ -19,6 +19,11 @@
       "id": "u0_a245",
       "type": ["STAR"], 
       "name": "Rizky"
+    },
+    {
+      "id": "u0_a244",
+      "type": ["HIGH"],
+      "name": "unknown"
     }
   ]
 }
