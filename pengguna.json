@@ -29,6 +29,11 @@
       "id": "u0_a228",
       "type": ["STAR"],
       "name": "buyer3"
+    }, 
+    {
+      "id": "u0_a277",
+      "type": ["HIGH"],
+      "name": "buyer4"
     }
   ]
 }
