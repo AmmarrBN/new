@@ -13,17 +13,22 @@
     {
       "id": "u0_a64",
       "type": ["STAR","MEDIUM","HIGH"], 
-      "name": "RazorPC"
+      "name": "RazorXPC"
     }, 
     {
       "id": "u0_a245",
       "type": ["STAR"], 
-      "name": "Rizky"
+      "name": "Buyer1"
     },
     {
       "id": "u0_a244",
       "type": ["STAR"],
-      "name": "buyyer2"
+      "name": "buyer2"
+    }, 
+      {
+      "id": "u0_a228",
+      "type": ["STAR"],
+      "name": "buyer3"
     }
   ]
 }
