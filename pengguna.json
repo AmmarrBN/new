@@ -34,6 +34,11 @@
       "id": "u0_a277",
       "type": ["HIGH"],
       "name": "buyer4"
+    }, 
+    {
+      "id": "u0_a63",
+      "type": ["HIGH"],
+      "name": "buyer5"
     }
   ]
 }
