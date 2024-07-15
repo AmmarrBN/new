@@ -15,5 +15,10 @@
       "type": ["HIGH"], 
       "name": "RazorX"
     }
+    {
+      "id": "u0_a98",
+      "type": ["HIGH"], 
+      "name": "Buyer1"
+    }
   ]
 }
