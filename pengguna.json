@@ -9,41 +9,6 @@
       "id": "u0_a857",
       "type": ["HIGH"], 
       "name": "RazorX"
-    }, 
-    {
-      "id": "u0_a62",
-      "type": ["STAR","MEDIUM","HIGH"], 
-      "name": "PCRazorx"
-    }, 
-    {
-      "id": "u0_a245",
-      "type": ["STAR"], 
-      "name": "Buyer1"
-    },
-    {
-      "id": "u0_a244",
-      "type": ["STAR"],
-      "name": "buyer2"
-    }, 
-    {
-      "id": "u0_a228",
-      "type": ["STAR"],
-      "name": "buyer3"
-    }, 
-    {
-      "id": "u0_a277",
-      "type": ["HIGH"],
-      "name": "buyer4"
-    }, 
-    {
-      "id": "u0_a63",
-      "type": ["HIGH"],
-      "name": "buyerlima"
-    },
-    {
-      "id": "u0_a19",
-      "type": ["STAR"],
-      "name": "buyerenam"
     }
   ]
 }
