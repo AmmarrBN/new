@@ -19,6 +19,11 @@
       "id": "u0_a98",
       "type": ["HIGH"], 
       "name": "Buyer1"
+    },
+    {
+      "id": "u0_a22",
+      "type": ["HIGH"], 
+      "name": "temen1"
     }
   ]
 }
