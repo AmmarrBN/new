@@ -1,34 +1,9 @@
 {
   "pengguna": [
     {
-      "id": "u0_a374",
+      "id": "u0_a266",
       "type": ["HIGH"],
-      "name": "AmmarBN"
-    },
-    {
-      "id": "Ammar",
-      "type": ["HIGH"],
-      "name": "AmmarBN2"
+      "name": "Semar"
     }, 
-    {
-      "id": "u0_a53",
-      "type": ["HIGH"], 
-      "name": "RazorX"
-    },
-    {
-      "id": "u0_a98",
-      "type": ["HIGH"], 
-      "name": "Buyer1"
-    },
-    {
-      "id": "u0_a22",
-      "type": ["HIGH"], 
-      "name": "temen1"
-    },
-    {
-      "id": "u0_a69",
-      "type": ["HIGH"], 
-      "name": "RazorxPC"
-    }
   ]
 }
